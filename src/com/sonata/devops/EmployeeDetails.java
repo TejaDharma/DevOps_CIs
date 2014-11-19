@@ -7,7 +7,7 @@ public class EmployeeDetails {
 		   private String name;
 		   private double monthlySalary;
 		   private int age;
-		   
+		  
 		   /**
 		   * @return the name
 		   */
