@@ -57,7 +57,7 @@
 				<artifactId>maven-war-plugin</artifactId>
 				<version>2.3</version>
 				<configuration>
-					<warName>petclinic</warName>
+					<warName>DevOps_CIs</warName>
 				</configuration>
 			</plugin>
 			<plugin>
