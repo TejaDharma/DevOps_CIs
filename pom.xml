@@ -13,8 +13,18 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+ 
+  <build>
+  <pluginManagement>
+    <plugins>
+      <plugin>
+        <groupId>org.codehaus.mojo</groupId>
+        <artifactId>sonar-maven-plugin</artifactId>
+        <version>1.0</version>
+      </plugin>
+    <plugins>
+  </pluginManagement>
+ </build>
+  
 </project>
-  
-  
-  
-</project>
+
