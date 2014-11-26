@@ -1,8 +1,7 @@
 package com.sonata.devopstestcases;
 
-import static org.junit.Assert.fail;
-
-import org.junit.Test;
+/*import static org.junit.Assert.fail;
+import org.junit.Test;*/
 import org.junit.runner.JUnitCore;
 import org.junit.runner.notification.Failure;
 
